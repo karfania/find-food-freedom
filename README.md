@@ -1,2 +1,2 @@
 # find-food-freedom
-A personal project that fetches JSON data from REST API calls to generate meal plans for users.
+A terminal-based, object-oriented Python project that leverages the use of API calls, user input, file I/O streams, and data structures to create an interactive food and recipe generator. Users are able to download recipes to a file and directory of their choosing, generate full days of eating plans to their liking, and filter API calls through a variety of metrics. Ultimately, the project aims to assist students in the nourishment of their bodies as they balance full-time education with extracurriculars.
